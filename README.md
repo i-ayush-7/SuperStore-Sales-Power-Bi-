@@ -4,7 +4,7 @@
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ## Dashboard:
-
+(https://github.com/i-ayush-7/SuperStore-Sales-Power-Bi-/blob/main/Sales%20Dashboard.png)
 
 ## DESCRIPTION
 The objective can be broken down into the following detailed components:
