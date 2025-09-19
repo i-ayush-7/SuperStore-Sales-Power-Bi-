@@ -6,6 +6,9 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Dashboard:
 ![Dashboard](https://github.com/i-ayush-7/SuperStore-Sales-Power-Bi-/blob/main/Sales%20Dashboard.png)
 
+## Forecasting:
+![Forecasting]()
+
 ## DESCRIPTION
 The objective can be broken down into the following detailed components:
 1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
