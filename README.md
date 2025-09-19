@@ -7,7 +7,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 ![Dashboard](https://github.com/i-ayush-7/SuperStore-Sales-Power-Bi-/blob/main/Sales%20Dashboard.png)
 
 ## Forecasting:
-![Forecasting]()
+![Forecasting](https://github.com/i-ayush-7/SuperStore-Sales-Power-Bi-/blob/main/Forecasting.png)
 
 ## DESCRIPTION
 The objective can be broken down into the following detailed components:
@@ -19,4 +19,4 @@ The objective can be broken down into the following detailed components:
 ## LEARNING
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
-Project By: Ayush Shukla
+##Project By: Ayush Shukla
